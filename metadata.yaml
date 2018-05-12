@@ -1,0 +1,39 @@
+_repo: Responsibilitiesand-other-poems_36865
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Moore, T. Sturge (Thomas Sturge)
+    aliases:
+    - Moore, Sturge
+    - Moore, Thomas Sturge
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '3161'
+    url: http://www.gutenberg.org/2009/agents/3161
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Sturge_Moore
+covers:
+- cover_type: archival
+  image_path: 36865-h/images/scover.jpg
+creator:
+  author:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+description: ''
+gutenberg_issued: '2011-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Irish authors'
+title: Responsibilities, and other poems
+url: http://www.gutenberg.org/ebooks/36865
